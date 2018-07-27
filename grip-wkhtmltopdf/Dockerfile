@@ -31,4 +31,4 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && dpkg -i wkhtmltox.deb \
     && rm wkhtmltox.deb
 
-COPY grip-template.html /usr/lib/python3.6/site-packages/grip/templates/index.html
+COPY grip-template.html /usr/local/lib/python3.5/dist-packages/grip/templates/index.html
