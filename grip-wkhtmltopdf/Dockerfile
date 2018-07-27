@@ -2,7 +2,7 @@
 # grip - convert markdown files to html (https://github.com/joeyespo/grip)
 # wkhtmltopdf - convert html files to PDF (https://wkhtmltopdf.org)
 # -----------------------------------------------------------------------------
-# De ian with grip and wkhtmltopdf (incl. qt patch). Used to convert Markdown files to PDF.
+# Debian with grip and wkhtmltopdf (incl. qt patch). Used to convert Markdown files to PDF.
 # Grip uses a modified template to remove the filename and box around the markdown content.
 
 
